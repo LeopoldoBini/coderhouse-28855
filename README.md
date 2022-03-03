@@ -6,6 +6,7 @@
 
 ## After class
 
-- :rocket: Afterclass 16-02-2022 [WSL y herramientas del curso de backend](https://coderhouse.zoom.us/rec/share/CqstPlyX6xLtaXSW_1DH0u-nzr2xlYLb1Ls0g6P1vP49X7EP1G407EOdUacKqg2P.9auuRw-33oNbPLK1?startTime=1645052539000)
+- :rocket: Afterclass 1 16-02-2022 [WSL y herramientas del curso de backend](https://coderhouse.zoom.us/rec/share/CqstPlyX6xLtaXSW_1DH0u-nzr2xlYLb1Ls0g6P1vP49X7EP1G407EOdUacKqg2P.9auuRw-33oNbPLK1?startTime=1645052539000)
+- :rocket: Afterclass 2 02-03-2022 [Ejercicio: class - Async/Await ](https://coderhouse.zoom.us/rec/share/Ka4Xpfk33lHOJBlsBG405z_YxDGCZ83Z_y-1F9uXwsm9vVI0ZrDNdVrLyVPKWBqN.nls_ms3JeyvAFuXY?startTime=1646258463000)
 
 By Diego Alzate
